@@ -1,55 +1,112 @@
 # Eduardo | Cybersecurity Portfolio
 
-> Security Analyst | Incident Response | Threat Detection | Security Operations
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-black)](https://github.com/yourusername)
+> Aspiring Cybersecurity Analyst | Former Culinary & Hospitality Leader | Google Cybersecurity Professional Certificate
 
 ---
 
 # About Me
 
-I am a cybersecurity professional with a background in leadership, operations, and risk management. My focus areas include threat detection, incident response, vulnerability management, and security monitoring.
+Welcome to my cybersecurity portfolio.
 
-Currently expanding my skills through hands-on labs, cybersecurity projects, and continuous learning.
+After building a successful career spanning more than 17 years in the culinary and hospitality industry, I have transitioned my professional focus to cybersecurity. Throughout my hospitality career, I led teams, managed high-pressure operations, developed policies and procedures, investigated operational issues, mitigated business risks, and ensured compliance with organizational standards.
 
-## Core Competencies
+These experiences developed many of the same core competencies required in cybersecurity:
 
-- Security Operations Center (SOC)
-- Incident Response
-- Threat Hunting
-- Vulnerability Management
-- SIEM Monitoring
-- Cloud Security
 - Risk Assessment
-- Security Awareness
+- Incident Investigation
+- Process Improvement
+- Policy Development
+- Team Leadership
+- Regulatory Compliance
+- Critical Decision-Making Under Pressure
+
+To support my career transition, I recently earned the **Google Cybersecurity Professional Certificate**, where I gained hands-on experience in:
+
+- Security Operations (SOC) Concepts
+- Incident Detection & Response
+- Security Information and Event Management (SIEM)
+- Network Security
+- Linux Administration
+- Python Fundamentals
+- SQL Querying
+- Threat Analysis
+- Vulnerability Management
+
+I am actively building technical projects, home lab environments, and security investigations to demonstrate real-world cybersecurity skills while leveraging the leadership and operational expertise developed throughout my hospitality career.
 
 ---
 
-# Certifications
+# Education & Certifications
 
-| Certification | Status |
-|--------------|---------|
-| Google Cybersecurity Professional Certificate | ✅ |
-| CompTIA Security+ | ✅ |
-| CompTIA CySA+ | In Progress |
-| Microsoft SC-900 | In Progress |
-| Microsoft SC-200 | Planned |
+## Google Cybersecurity Professional Certificate
+
+Completed comprehensive cybersecurity training covering:
+
+- Cybersecurity Foundations
+- Security Auditing
+- Linux & SQL
+- Networks and Network Security
+- Assets, Threats, and Vulnerabilities
+- Detection and Response
+- Security Tools and SIEM Platforms
+
+## Future Certifications
+
+- CompTIA Security+
+- Microsoft SC-900
+- Microsoft SC-200
+- CompTIA CySA+
+
+---
+
+# Professional Background
+
+## Culinary & Hospitality Leadership (17+ Years)
+
+Prior to cybersecurity, I built and led food service operations in fast-paced hospitality environments.
+
+### Areas of Responsibility
+
+- Team Leadership & Development
+- Compliance Management
+- Operational Risk Mitigation
+- Budget and Asset Protection
+- Vendor Management
+- Process Optimization
+- Incident Investigation & Documentation
+- Customer Trust & Service Recovery
+
+### Transferable Skills to Cybersecurity
+
+| Hospitality Experience | Cybersecurity Equivalent |
+|----------------------|--------------------------|
+| Operational Risk Management | Security Risk Management |
+| Incident Resolution | Incident Response |
+| Compliance Monitoring | Security Compliance |
+| SOP Development | Security Policies & Procedures |
+| Root Cause Analysis | Threat Investigation |
+| Staff Training | Security Awareness Training |
+| Quality Assurance | Security Control Validation |
 
 ---
 
 # Technical Skills
 
-## Security Tools
+## Security & Analysis
 
-- Microsoft Sentinel
-- Microsoft Defender
-- Splunk
+- SIEM Fundamentals
+- Log Analysis
+- Threat Detection
+- Incident Response
+- Vulnerability Management
+
+## Tools
+
+- Google Chronicle (Learning)
 - Wireshark
-- Nessus
-- Burp Suite
 - Nmap
+- Tcpdump
+- Linux Command Line
 
 ## Operating Systems
 
@@ -57,200 +114,39 @@ Currently expanding my skills through hands-on labs, cybersecurity projects, and
 - Linux
 - Kali Linux
 
-## Scripting & Automation
+## Scripting
 
 - Python
-- PowerShell
+- SQL
 - Bash
-
-## Frameworks
-
-- NIST Cybersecurity Framework
-- MITRE ATT&CK
-- CIS Controls
 
 ---
 
-# Featured Projects
+#  Current Cybersecurity Projects
 
-## 🔍 Threat Detection Lab
+## Security Operations Center (SOC) Lab
 
-### Objective
-Build a cloud-based SIEM environment for threat monitoring and incident investigation.
+Building a home SOC environment to practice:
 
-### Skills Demonstrated
 - Log Collection
-- KQL Queries
+- Threat Detection
 - Alert Triage
 - Incident Investigation
 
-### Technologies
-- Azure
-- Microsoft Sentinel
-- Log Analytics
+---
 
-### Repository
-[View Project](https://github.com/yourusername/threat-detection-lab)
+## Vulnerability Assessment Project
+
+Conducting vulnerability scans and documenting findings, risk ratings, and remediation recommendations.
 
 ---
 
-## 🛡️ Vulnerability Assessment Project
+## Security Incident Investigation Case Study
 
-### Objective
-Perform vulnerability scanning and risk analysis of lab systems.
-
-### Skills Demonstrated
-- Vulnerability Scanning
-- Risk Prioritization
-- Remediation Planning
-
-### Tools
-- Nessus
-- OpenVAS
-- Nmap
-
-### Repository
-[View Project](https://github.com/yourusername/vulnerability-assessment)
+Performing hands-on analysis of simulated cybersecurity incidents and documenting investigation methodology.
 
 ---
 
-## 🚨 Incident Response Investigation
+## Cybersecurity Portfolio Goal
 
-### Objective
-Investigate a simulated security incident and document findings.
-
-### Skills Demonstrated
-- Log Analysis
-- IOC Identification
-- Incident Documentation
-
-### Repository
-[View Project](https://github.com/yourusername/incident-response)
-
----
-
-## 🐍 Security Automation Scripts
-
-### Objective
-Automate repetitive security tasks.
-
-### Examples
-
-- IOC Enrichment
-- Log Parsing
-- User Audit Scripts
-- Threat Intelligence Automation
-
-### Repository
-[View Project](https://github.com/yourusername/security-automation)
-
----
-
-# Home Lab
-
-## Lab Architecture
-
-```text
-Internet
-    │
-Firewall
-    │
-┌─────────────┬───────────────┬──────────────┐
-│ Windows VM │ Ubuntu Server │ Kali Linux  │
-└─────────────┴───────────────┴──────────────┘
-             │
-      Microsoft Sentinel
-             │
-       Log Analytics
-```
-
-## Lab Activities
-
-- Threat Hunting
-- Malware Analysis
-- Attack Simulation
-- Vulnerability Scanning
-- Security Monitoring
-
----
-
-# CTF & Training Platforms
-
-| Platform | Progress |
-|-----------|----------|
-| TryHackMe | Add Stats |
-| Hack The Box | Add Stats |
-| CyberDefenders | Add Stats |
-| LetsDefend | Add Stats |
-
----
-
-# Security Write-Ups
-
-| Topic | Link |
-|---------|--------|
-| Threat Hunting Exercise | Add Link |
-| Windows Event Analysis | Add Link |
-| Incident Response Case Study | Add Link |
-| Vulnerability Assessment Report | Add Link |
-
----
-
-# Career Goals
-
-- [ ] Security Operations Analyst
-- [ ] Incident Response Analyst
-- [ ] Threat Hunter
-- [ ] Azure Security Engineer
-- [ ] Cybersecurity Consultant
-
----
-
-# Resume
-
-📄 Resume Available Upon Request
-
-Or add your resume here:
-
-```text
-/resume/Eduardo_Resume.pdf
-```
-
----
-
-# Contact
-
-- LinkedIn: https://linkedin.com/in/yourprofile
-- GitHub: https://github.com/yourusername
-- Email: your.email@example.com
-
----
-
-# Repository Structure
-
-```text
-cybersecurity-portfolio/
-│
-├── README.md
-│
-├── projects/
-│   ├── threat-detection-lab/
-│   ├── vulnerability-assessment/
-│   ├── incident-response/
-│   └── security-automation/
-│
-├── writeups/
-│   ├── threat-hunting.md
-│   ├── incident-response.md
-│   └── vulnerability-management.md
-│
-├── screenshots/
-│
-├── certifications/
-│
-└── resume/
-```
-
----
-
-⭐ If you find my work valuable, feel free to connect with me and explore my projects.
+My goal is to combine the leadership, operational discipline, and risk-management experience developed throughout my hospitality career with newly acquired technical cybersecurity skills to contribute as a Security Operations Center (SOC) Analyst, Cybersecurity Analyst, or Incident Response professional.
