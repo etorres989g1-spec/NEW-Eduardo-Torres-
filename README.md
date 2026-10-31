@@ -61,7 +61,7 @@ Completed comprehensive cybersecurity training covering:
 
 # Professional Background
 
-## Culinary & Hospitality Leadership (17+ Years)
+## Culinary & Hospitality Leadership (18+ Years)
 
 Prior to cybersecurity, I built and led food service operations in fast-paced hospitality environments.
 
