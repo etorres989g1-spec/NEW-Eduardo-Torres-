@@ -1,6 +1,6 @@
 # Eduardo | Cybersecurity Portfolio
 
-> Aspiring Cybersecurity Analyst | Former Culinary & Hospitality Leader | Google Cybersecurity Professional Certificate
+> Aspiring Cybersecurity Analyst | Former Professional Chef & Hospitality Leader | Google Cybersecurity Professional Certificate
 
 ---
 
