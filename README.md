@@ -1,6 +1,6 @@
-# Eduardo | Cybersecurity Portfolio
+# Eduardo Torres
 
-> Aspiring Cybersecurity Analyst | Former Professional Chef & Hospitality Leader | Google Cybersecurity Professional Certificate
+> Aspiring Cybersecurity Analyst | Former Professional Chef & Hospitality Leader 
 
 ---
 
@@ -55,26 +55,25 @@ Completed comprehensive cybersecurity training covering:
 
 ## Future Certifications
 
-- CompTIA Security+
-- Microsoft SC-900
-- Microsoft SC-200
+- CompTIA Security+ V8
 - CompTIA CySA+
+- CompTIA SecAI+
 
 ---
 
 # Professional Background
 
-## Culinary & Hospitality Leadership (18+ Years)
+## Culinary & Hospitality Leadership (17+ Years)
 
-Prior to cybersecurity, I built and led food service operations in fast-paced hospitality environments.
+Prior to cybersecurity, I built and led food service operations in fast-paced hospitality environments; Fine Dining, Collegiate Athletic Dining, Casual high-volume Dining, On-site Catering & Special Events.
 
 ### Areas of Responsibility
 
 - Team Leadership & Development
 - Compliance Management
 - Operational Risk Mitigation
-- Budget and Asset Protection
-- Vendor Management
+- Budget and Asset Protection/Procurement 
+- Vendor Relations
 - Process Optimization
 - Incident Investigation & Documentation
 - Customer Trust & Service Recovery
@@ -136,17 +135,34 @@ Building a home SOC environment to practice:
 - Alert Triage
 - Incident Investigation
 
+<a href="https://github.com/YOUR_USERNAME/soc-lab">
+  <img src="https://img.shields.io/badge/View%20Project-SOC%20Lab-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="SOC Lab Repository">
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/soc-lab">
+  <img src="https://img.shields.io/badge/Security%20Operations%20Center-Home%20Lab-red?style=for-the-badge&logo=shield&logoColor=white" alt="SOC Home Lab">
+</a>
 ---
 
 ## Vulnerability Assessment Project
 
 Conducting vulnerability scans and documenting findings, risk ratings, and remediation recommendations.
 
+[![Vulnerability Assessment](https://img.shields.io/badge/View-Vulnerability%20Management-red?style=for-the-badge&logo=tenable&logoColor=white)](https://github.com/YOUR_USERNAME/vulnerability-assessment)
 ---
 
 ## Security Incident Investigation Case Study
 
 Performing hands-on analysis of simulated cybersecurity incidents and documenting investigation methodology.
+
+[![Incident Investigation](https://img.shields.io/badge/View-Incident%20Response-orange?style=for-the-badge&logo=securityscorecard&logoColor=white)](https://github.com/YOUR_USERNAME/incident-investigation-lab)
+---
+
+## Wazuh SIEM Lab
+
+EXPLAIN
+
+[![Wazuh Lab](https://img.shields.io/badge/View-Wazuh%20SIEM%20Lab-005EB8?style=for-the-badge&logo=wazuh&logoColor=white)](https://github.com/YOUR_USERNAME/wazuh-siem-lab)
 
 ---
 
