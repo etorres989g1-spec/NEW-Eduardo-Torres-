@@ -39,6 +39,9 @@ I am actively building technical projects, home lab environments, and security i
 # Education & Certifications
 
 ## Google Cybersecurity Professional Certificate
+<a href="https://www.linkedin.com/in/etorres9111989/details/certifications/" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate">
+</a>
 
 Completed comprehensive cybersecurity training covering:
 
