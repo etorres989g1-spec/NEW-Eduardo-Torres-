@@ -158,14 +158,6 @@ Performing hands-on analysis of simulated cybersecurity incidents and documentin
 [![Incident Investigation](https://img.shields.io/badge/View-Incident%20Response-orange?style=for-the-badge&logo=securityscorecard&logoColor=white)](https://github.com/YOUR_USERNAME/incident-investigation-lab)
 ---
 
-## Wazuh SIEM Lab
-
-EXPLAIN
-
-[![Wazuh Lab](https://img.shields.io/badge/View-Wazuh%20SIEM%20Lab-005EB8?style=for-the-badge&logo=wazuh&logoColor=white)](https://github.com/YOUR_USERNAME/wazuh-siem-lab)
-
----
-
 ## Cybersecurity Portfolio Goal
 
 My goal is to combine the leadership, operational discipline, and risk-management experience developed throughout my hospitality career with newly acquired technical cybersecurity skills to contribute as a Security Operations Center (SOC) Analyst, Cybersecurity Analyst, or Incident Response professional.
